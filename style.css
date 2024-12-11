@@ -22,7 +22,7 @@ article{
     background-color: #fcfbea;
     color: rgb(78, 78, 78);
     width: 100%;
-    border-radius: 15px;
+    border-radius:0px;
     display: flex;
     padding: 38px;
     margin: 700px;
