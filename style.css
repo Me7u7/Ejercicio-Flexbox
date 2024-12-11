@@ -1,0 +1,77 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+h1{
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+main{
+    background-image: url(https://d2ar51n7kygnf1.cloudfront.net/images/media/171/h/headernavidad.jpg) ;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    align-content: center;
+    
+}
+
+article{
+    background-color: #fcfbea;
+    color: rgb(78, 78, 78);
+    width: 100%;
+    border-radius: 15px;
+    display: flex;
+    padding: 38px;
+    margin: 700px;
+    gap: 10px;
+}
+.left {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    text-align: left;
+    width: 50%;
+
+}
+
+.left p {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.left h1 {
+    color: rgb(78, 78, 78);
+    font-size: 32px;
+    font-weight: bold;
+}
+
+
+.right {
+    display: grid;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.right img {
+    filter: grayscale(100%);
+    width: 100px;
+    height: auto;
+    margin: 0 auto;
+}
+.right img:hover {
+    filter: none; 
+}
+
+.right p {
+    grid-column: span 3;
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
