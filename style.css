@@ -23,6 +23,10 @@ article{
     color: rgb(78, 78, 78);
     width: 100%;
     border-radius:0px;
+<<<<<<< HEAD
+=======
+    display: flex;
+>>>>>>> 70c15512b7bd1d2819e76c4d3b662a0cb3d081cf
     padding: 38px;
     margin: 700px;
 }
@@ -71,4 +75,9 @@ article{
     font-size: 16px;
     font-weight: bold;
     margin-top: 20px;
+<<<<<<< HEAD
 }
+=======
+}
+
+>>>>>>> 70c15512b7bd1d2819e76c4d3b662a0cb3d081cf
