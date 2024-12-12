@@ -23,8 +23,9 @@ article{
     color: rgb(78, 78, 78);
     width: 100%;
     border-radius:0px;
-    padding: 38px;
-    margin: 700px;
+    padding: 10px;
+    margin: 10px;
+
 }
 .left {
     display: flex;
@@ -54,6 +55,7 @@ article{
     justify-content: center;
     align-items: center;
     text-align: center;
+
 }
 
 .right img {
